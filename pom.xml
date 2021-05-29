@@ -4,55 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-<!--
-    <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>9</version>
-    </parent>
--->
-
     <groupId>com.github</groupId>
     <artifactId>learn</artifactId>
     <packaging>pom</packaging>
     <version>0.1-SNAPSHOT</version>
     <name>learn</name>
     <description>学习DEMO</description>
-<!--    <url>https://github.com/mpusher/mpush</url>-->
 
-<!--    <licenses>
-        <license>
-            <name>The Apache Software License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>-->
-
- <!--   <scm>
-        <tag>v${project.version}</tag>
-        <url>https://github.com/mpusher/mpush</url>
-        <connection>scm:git:git://github.com/mpusher/mpush.git</connection>
-        <developerConnection>scm:git:ssh://github.com/mpusher/mpush.git</developerConnection>
-    </scm>
-
-    <issueManagement>
-        <system>GitHub Issues</system>
-        <url>https://github.com/mpusher/mpush/issues</url>
-    </issueManagement>
-
-    <organization>
-        <name>MPusher, Inc.</name>
-        <url>https://mpusher.io</url>
-    </organization>
-
-    <developers>
-        <developer>
-            <name>夜色</name>
-            <email>ohun@live.cn</email>
-            <organization>mpusher</organization>
-        </developer>
-    </developers>
--->
     <modules>
         <module>learn-gson</module>
     </modules>
