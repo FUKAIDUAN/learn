@@ -15,7 +15,7 @@
     <groupId>com.github</groupId>
     <artifactId>learn</artifactId>
     <packaging>pom</packaging>
-    <version>0.8.1</version>
+    <version>0.1-SNAPSHOT</version>
     <name>learn</name>
     <description>学习DEMO</description>
 <!--    <url>https://github.com/mpusher/mpush</url>-->
@@ -53,19 +53,9 @@
         </developer>
     </developers>
 -->
-  <!--  <modules>
-        <module>mpush-api</module>
-        <module>mpush-boot</module>
-        <module>mpush-core</module>
-        <module>mpush-tools</module>
-        <module>mpush-netty</module>
-        <module>mpush-common</module>
-        <module>mpush-client</module>
-        <module>mpush-test</module>
-        <module>mpush-monitor</module>
-        <module>mpush-zk</module>
-        <module>mpush-cache</module>
-    </modules>-->
+    <modules>
+        <module>learn-gson</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
