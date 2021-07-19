@@ -10,9 +10,9 @@
         <!--        <relativePath>../pom.xml</relativePath>-->
     </parent>
 
-    <artifactId>learn-gson</artifactId>
+    <artifactId>iot-mqtt</artifactId>
     <packaging>jar</packaging>
-    <name>learn-gson</name>
+    <name>iot-mqtt</name>
     <description>学习GSON DEMO</description>
     <!--    <url>https://github.com/mpusher/mpush</url>-->
 

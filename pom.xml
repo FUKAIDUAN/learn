@@ -13,6 +13,10 @@
 
     <modules>
         <module>learn-gson</module>
+        <module>iot-coap</module>
+        <module>iot-lwm2m</module>
+        <module>iot-mqtt</module>
+        <module>iot-http</module>
     </modules>
 
     <properties>
